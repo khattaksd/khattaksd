@@ -1,4 +1,6 @@
-### Hello Friend 👋
+[![MasterHead](gh-banner.png)](https://khattaksd.github.io/)
+
+### Hello Friend
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
